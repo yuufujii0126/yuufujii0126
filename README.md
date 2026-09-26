@@ -11,10 +11,16 @@
   <img src="https://komarev.com/ghpvc/?username=yuufujii0126" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=yuufujii0126&show_icons=true&theme=tokyonight" />
-  <img src="https://github-profile-trophy-psi-five.vercel.app/?username=yuufujii0126&rank=-?&theme=darkhub"/>
-</div>
+## Strengths
+
+- 🔍 **仮説検証を回す力**：経験に基づく主観的仮説と、データに基づく客観的仮説を行き来しながら分析を進めます
+- 🧠 **データの背景を読む視点**：数字の裏にある人の行動・事情まで掘り下げて解釈します
+- 🥽 **多様なデータを扱う経験**：POS データ（業務データ）から、頭部運動・表情・音声・発話といったマルチモーダルな行動データまで
+
+## What I want to do
+
+- 顧客や利用者の **行動データ** から意思決定につながる示唆を導く仕事
+- 分析結果をビジネス側の人にも伝わる形に落とし込み、**施策まで届ける** データ活用
 
 ## Tech stack
 
